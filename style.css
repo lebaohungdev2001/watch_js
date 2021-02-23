@@ -1,0 +1,20 @@
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+    
+}
+.container{
+    text-align: center;
+}
+button{
+    padding: 10px 10px;
+    background-color: #a5a5a5;
+    color: white;
+    border: none;
+    box-shadow: #a5a5a5 0px 5px;
+    border-radius: 5px;
+}
